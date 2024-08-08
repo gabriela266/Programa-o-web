@@ -1,0 +1,14 @@
+/* h1 { seletor por TAG, o estilo será aplicado a todas as tags h1 
+    color:blueviolet;
+    text-align: center;
+} */
+
+#titulo {  /*Seletor por meio de ID */
+    color: blue;
+    text-align: center;
+
+}
+
+ .entradas-usuario{  /*seletor por classe */
+    border: 1px solid;
+}
